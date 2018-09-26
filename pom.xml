@@ -5,7 +5,7 @@
   <artifactId>sample</artifactId>
   <packaging>war</packaging>
   <version>1</version>
-  <name>sample_Maven_Package</name>
+  <name>maven_package</name>
   <url>http://maven.apache.org</url>
   
   <dependencies>
